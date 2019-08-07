@@ -1,0 +1,2 @@
+# micro-framework
+O objetivo desse projeto é aprender como os frameworks funcionam por de baixo do capô. Estou seguindo a playlist https://www.youtube.com/playlist?list=PLSYIyzca1f9wGynWlC-SH2lVBkE8S81A0 e tenatando me acustumar melhor com o git no desenvolvimento de projetos.
