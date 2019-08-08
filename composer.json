@@ -9,6 +9,9 @@
             "email": "leonardorangel2604@gmail.com"
         }
     ],
+    "scripts": {
+        "serve": "php -S localhost:8080 -t public"
+    },
     "require": {
         "php": ">=7.2"
     },
